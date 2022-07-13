@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=" | PASIONES HD " tvg-logo="http://vplay.club:8888/images/f008360b8a9dcf2bf959735310c7b097.png" group-title="LATINOS" | PASIONES HD
-http://51.222.25.50:25461/n3wbull/bulln3w/139
 EXTINF:-1 tvg-id="" tvg-name="---------------ECUADOR---------------" tvg-logo="" group-title="ECUADOR ",---------------ECUADOR---------------
 http://magmas5.com:8000/malotv/gratis/26
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="01 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
@@ -34,6 +32,7 @@ http://magmas5.com:8000/malotv/gratis/3593
 http://magmas5.com:8000/malotv/gratis/3594
 #EXTINF:-1 tvg-id="" tvg-name="15 | UCSG  TV " tvg-logo="https://image.roku.com/developer_channels/prod/f5c7ba191dbb1cd5746b2c2d96092df08ae31354fab5e7834c348c75365096e0.png" group-title="ECUADOR ",15 | UCSG  TV 
 http://magmas5.com:8000/malotv/gratis/3595
+EXTINF:-1 tvg-id="" tvg-name="---------------LATINOS---------------" tvg-logo="" group-title="LATINOS ",---------------LATINOS---------------
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="SUR | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LATINOS" | STAR CHANNEL
 http://magmas5.com:8000/malotv/gratis/4781
 #EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name="SUR | STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="LATINOS" | STAR LIFE
@@ -74,6 +73,8 @@ http://magmas5.com:8000/malotv/gratis/4799
 http://magmas5.com:8000/malotv/gratis/4800
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SUR | SONY" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="LATINOS" | SONY
 http://magmas5.com:8000/malotv/gratis/4801
+#EXTINF:-1 tvg-id="" tvg-name=" | PASIONES HD " tvg-logo="http://vplay.club:8888/images/f008360b8a9dcf2bf959735310c7b097.png" group-title="LATINOS" | PASIONES HD
+http://51.222.25.50:25461/n3wbull/bulln3w/139
 #EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="SUR | SPACE" tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="LATINOS" | SPACE
 http://magmas5.com:8000/malotv/gratis/4802
 #EXTINF:-1 tvg-id="" tvg-name="SUR | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="LATINOS" | TBS
